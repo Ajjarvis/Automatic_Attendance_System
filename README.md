@@ -1,8 +1,10 @@
 # Automatic_Attendance_System
 Automatic Attendance System based on Face Recognition
 
+
 -> Clone/Download all files in one folder
 -> First you have to create 3 files "faces","attendance_files" and "trainer" in that folder
+
 
 There is "firstpage.py" file which is tkinter based UI application. 
 
