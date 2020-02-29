@@ -1,7 +1,10 @@
 # Automatic_Attendance_System
 Automatic Attendance System based on Face Recognition
 
-There is "firstpage.py" file which is tkinter based ui application. 
+-> Clone/Download all files in one folder
+-> First you have to create 3 files "faces","attendance_files" and "trainer" in that folder
+
+There is "firstpage.py" file which is tkinter based UI application. 
 
   1) Collect 200 sample faces of students("Collect Samples")
   2) Train the model("Train Model")
